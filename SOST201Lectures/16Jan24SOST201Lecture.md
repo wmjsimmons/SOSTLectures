@@ -1,0 +1,107 @@
+# SOST201--16 January 2024 Lecture
+========================
+
+## Intro/Commentary
+
+Open for reactions, ideas, questions, etc. Syllabus and today's readings
+
+## Davis Bend: A Story of the South
+
+Look at CTC and the story of Davis' Bend
+- See your note on page xv
+- Look at pg xvi, both asterisks. 
+
+### What do we say (and not say) about the South?
+
+CTC tell an interesting story about the South and its Americaness here, but they tell an incomplete one.  While I generally like the book very much, I will, at a few points this semester, speak critically of it, largely for the things it *does not say*, as those things tend to be profoundly interesting parts of the story. One of those moments is now, for the story they tell of Davis Bend, MS--and of the plantation of Jefferson Davis's older brother, Joseph--is incomplete. Joseph Davis was not a typical slaveholder in any sense. He thought of himself as an "enlightened paternalist" who applied to his plantation and his enslaved laborers the utopian socialism of the Welshman Robert Owen. Owen, who owned textile manufacturing facilities in Britain, advocated for co-operation between those who owned facilities and those who labored in them; to this end, Owen was an early advocate for organized labor and unionization, as well as a tireless promotor of socialism and other projects he felt would serve and uplift the poor and working class. Joseph Davis applies Owen's principles to the context of slavery and plantation labor in Mississippi. 
+
+According to *The Pursuit of a Dream*, a 1981 study of self-governing Black communities in 19th century America, Joseph Davis ran a highly-profitable plantation where his enslaved workers were fed, clothed, and housed significantly better than most slaves. Discipline problems amongst the slaves were adjudicated not by the whims of the master or a White overseer, but through organized trials; no slave on Davis Bend could be punished without the consent of a jury of other people enslaved on the plantation. Those enslaved at Davis Bend were given a high degree of autonomy and self-governance, and slaves were encouraged to develop their skills and interests, as well as to pursue entrepreneurship--any profits those enslaved here made from such work were kept by them. Interestingly, Jefferson Davis, Joseph's younger brother and future CSA president, would adopt many of these same policies on his plantation.
+
+This is interesting, but maybe means very little--or maybe it means quite a bit, though perhaps not in the way we might initially think. CTC say something very important on pg xix: "defining the south...even the present." We must look at the complexity of the South and not allow it to be defined reductively, which is something we all too often fall into. The South, after all, is an American fantasy, a myth, a symbol; but what is that symbol? How do we utilize it? When the brothers of the Kappa Alpha Order celebrate the Old South, what are they celebrating? What are they leaving out? What does the South mean for them? When President Biden ties former President Trump and his supporters to the Confederacy and the enemies of democracy, how is he using the South as a symbol, ideal, and myth? To what end? What is he leaving out? And what about our textbook authors? What are they leaving out, and why? See, for instance, their description of Benjamin Montgomery, a man enslaved at Davis Bendon page xx. 
+
+"Played a major role," they say. This grossly minimizes the gravity--and the strangeness--of what Montgomery did. Bought by Davis to work as a field hand, Montgomery would not only become literate, but also taught himself engineering and became a skilled mechanic and entrepreneur; he would eventually own a profitable store on the plantation, and from those profits he gained enough money to buy freedom for himself and his family. Interestingly, after the Civil War, Davis Bend was taken over by the Union Army, who largely continued management of the plantation along the benign paternalism established by Davis; yes, even after the Yankees and freedom came, formerly enslaved Blacks continued to live on the plantation and labor under the supervision--and condescension--of White men. Only this time, these White men were Yankee soldiers and government officials, rather than Southern slaveholders. In late 1865, Benjamin Montgomery attempted to wrest control of Davis Bend away from the Northerners. In 1866, Montgomery's efforts ended up seeing Davis Bend taken out of the hands of the Federal Army and returned to the ownership of Joseph Davis, his former master and the brother of the man who lead a government that would have kept him enslaved. Davis turned around and sold the plantation to Montgomery. By the end of the 1860s, Davis Bend was a profitable Black-owned-and-managed plantation; during the unrest of the 1870s, it remained a place of stability, prosperity, and Black independence and excellence. Thus, the story of Davis Bend is a more complicated and nuanced story of South than what CTC posit. Why did they tell as they did? Why do I tell it as I do? What happens when we reduce how we think of the South in one way or another? 
+
+## The Problems of Defintion
+
+CTC get to the problem of reductiveness when they talk about the hazard of defining the South merely in terms of the Confederacy. How then are we to define the South? It's had to do without being reductive; there's no agreed-upon idea. Look at how they define the South--what's wrong with that to some of y'all? Anything? If something is difficult to define, perhaps it means that the thing can't be defined and thus, in its resisting definition, perhaps it does not exist at all. And yet, we all know that the South is real and that it is distinctive. It *is*America and yet, in another way, it is something else. This is another way of saying that the South exists as a place of *contestation over the meaning of American ideals*. (see CTC xxi)
+
+But are there tangible things that can be used to determine what shapes the South and its trajectory, of the role it plays in our American imagination?
+
+## The Southern Place
+
+Look at CTC maps, ask what they notice
+-The plurality of Souths, defined by the variety of geographies, united by somewhat arbitrary political units, created before the full implications of these geopgrahies were apparent and yet married these diverse geographies together politically--and yet, these diverse places *are* tied together by rivers, etc.
+
+This brings us to U.B. Phillips; the opening line, an absolute classic! Read the opening paragraph; see your note. 
+- Use this to open up looking at the maps on Blackboard. Discuss these in detail!
+
+## The Consequences of Southern Geography
+The geogrpahy of South thus creates the contours of *labor* in the South!
+- See pgs. 6 & 7; compare these to Blackboard maps
+    - 9
+    - 11-12
+    - 12-13
+- Pull this back to your frontispiece comment: economy and geography *create* the countours in which the South occurs, contours which, as we noted last time, are occuring in the context of a globalized vision of South.
+
+The question of **labor**, connected to the realities of geography, *shapes the South*, both in its realities and ideals. Politics necessarily and inescapably downstream of this, which has multiple consequences. 
+
+-This leads to Davis!
+
+## Davis: Southern Myths
+
+Read from Davis, *The Cause Lost*, pg 175. 
+- How is Davis defining myth? How does this help shape what we are looking at in the two readings I had you do for today?
+
+Davis deeply understand the *correct* sense of how myth shapes history. We see that in these two short pieces.
+
+### "The Fortelling"
+
+- Page 1: read and look at your commentary. 
+    - I think Phillips is right and the differences in early America are, at their core, differences in geography and thus of labor and the politics downstream of these.
+    - Yet Davis, putting forth this story, shows that America is also extremely conscious of its need to *be a nation*--yet, the inescapable differences of geography, of labor, and thus of politics create a tension in what this national meaning is, and could be.
+    - Myths--stories of normative ideals and deviations from them--become central, and thus also constitutive of the tensions between the American stories.
+- What do we make of the story Davis tells in "The Fortelling"?
+    - Look at pp. 5, 6 and your commentary
+
+### "Dixie's Land"--The South as Provincial and Cosmopolitan
+
+- Davis shows the way in which the various realities of South play into its seperation from "North" (or just "America"?) and how these shape mythos of place, both created by and imposed upon Southerners. 
+    - Here in "Dixie's Land", Davis points us to labor--to enslaved labor particularly--as the inescapable pivot point, that thing produced by land that makes South *both* provinical and cosmpolitan 
+        - pp. 8 & 9
+
+The question we have to ask here, and that we will ask many more times this semester: **Could there have been another way?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
